@@ -1,4 +1,4 @@
-# Text-Extraction-From-Business-Card-Using-OCR
+# BizCardX-Extracting-Business-Card-Data-with-OCR
 
 `Application Link:` 
 
@@ -29,7 +29,7 @@ Installation
 6. > (my_bizcards_env)  C:\Users\shamhiruthik\> mkdir bizcards           #create a folder 
 7. > (my_bizcards_env)  C:\Users\shamhiruthik\> cd bizcards              # download the above files from this repository and place inside this folder
 8. > (my_bizcards_env)  C:\Users\shamhiruthik\bizcards> pip install -r requirements.txt       # it will install all the required modules in the environment
-9. > (my_bizcards_env)  C:\Users\shamhiruthik\phonepe> streamlit run OCR_APP.py   # Now run the app using streamlit
+9. > (my_bizcards_env)  C:\Users\shamhiruthik\phonepe> streamlit run Bizcard_App.py  # Now run the app using streamlit
 10. > You can now view your Streamlit app in your browser.
 
 
