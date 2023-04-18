@@ -1,6 +1,6 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR  ![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
-`Application Link:` 
+`Application Link:` https://shamhiruthik-bizcardx-extracting-business-ca-bizcard-app-xlx2u8.streamlit.app/
 
  `Demo Link:` 
 
